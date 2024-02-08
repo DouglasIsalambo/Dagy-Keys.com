@@ -1,0 +1,27 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.dtbfirmware.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_506a799691d814bf69c97952379e217b	%20
+www.dtbfirmware.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_506a799691d814bf69c97952379e217b	%20
+www.dtbfirmware.com	TRUE	/wp-admin	FALSE	1999999999	wordpress_506a799691d814bf69c97952379e217b	%20
+www.dtbfirmware.com	TRUE	/wp-admin	FALSE	1999999999	wordpress_sec_506a799691d814bf69c97952379e217b	%20
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wmc_ip_info	eyJjb3VudHJ5IjoiS0UiLCJjdXJyZW5jeV9jb2RlIjoiS0VTIn0%3D
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wmc_currency_rate	160.0
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wmc_currency_symbol	KSh
+.themeforest.net	TRUE	/	FALSE	1999999999	__cf_bm	HdH6V3jsqu2L.lKfOd_QWHu.TlMNSlefTGwDN95I6uo-1707252347-1-AaAC7W8D4yoOStpo4roWLzI7UkxuQtcagukwIBfgbT8dhEGfZuf4typagxIWNfe/ExVSwGKACaFAUlYQQbNMwq8=
+themeforest.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_506a799691d814bf69c97952379e217b	t_e2f6eb83c2888b5731a7ccf0df78a3%7C%7C1707426107%7C%7C1707422507%7C%7Cff81b3b66e180a54ba7fc1f26c08698a
+.codecanyon.net	TRUE	/	FALSE	1999999999	__cf_bm	dZ3sXGEgOzGyooMSfRDVUSJZQGIFbADKtpdroe_hci4-1707257006-1-AYU4nhy4BNr4EYU2+stcRc+4+6vtWAB85nhPx/A8wbBxCtJcGrNWWN7TOF807BylKU3XuNsf5lJqDFC7HpBP8RU=
+codecanyon.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wordpress_logged_in_506a799691d814bf69c97952379e217b	%20
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wp-settings-0	%20
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wp-settings-time-0	%20
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wordpress_506a799691d814bf69c97952379e217b	%20
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wordpress_sec_506a799691d814bf69c97952379e217b	%20
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wordpressuser_506a799691d814bf69c97952379e217b	%20
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wordpresspass_506a799691d814bf69c97952379e217b	%20
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wp-postpass_506a799691d814bf69c97952379e217b	%20
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	wmc_current_currency	USD
+www.dtbfirmware.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	015b912c1c4e95e921994d360b8226dd
+
